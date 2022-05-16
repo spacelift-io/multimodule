@@ -1,6 +1,8 @@
 version: 1
 module_version: 0.1.8
 
+# Boom!
+
 tests:
   - name: Default pet test
     project_root: examples/default
